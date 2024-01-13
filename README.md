@@ -17,6 +17,8 @@ In the Body tab, select raw and choose JSON (application/json).
 Paste the request body mentioned above.
 Click on the "Send" button.
 make request with this data
+
+```
 {
 "name": "Sample Product",
 "description": "Sample Description",
@@ -26,6 +28,7 @@ make request with this data
 { "name": "Variant 2", "SKU": "SKU456", "additionalCost": 8, "stockCount": 15 }
 ]
 }
+```
 
 Get All Products:
 
